@@ -14,9 +14,9 @@ public:
     Node(){}
     Node(char,int);
     inline char getData(){ return this->data; }
-	inline int getFreq() {return this->freq; }
-	inline Node * getLeft(){ return this->left; }
-	inline Node * getRight(){ return this->right; }
+    inline int getFreq() {return this->freq; }
+    inline Node * getLeft(){ return this->left; }
+    inline Node * getRight(){ return this->right; }
     //Node * mearg(Node *,Node *)
 };
 
