@@ -1,2 +1,2 @@
 # Compression-Tool
-This is a compression tool based on Huffman algorithm  
+This is a lossless compression tool for text based on Huffman algorithm  
